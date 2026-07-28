@@ -1,2 +1,27 @@
-# BibliothequeNumerique
-Le projet consiste à développer une application de gestion de bibliothèque numérique destinée à une communauté académique, cette application permettra aux utilisateurs de consulter des ressources documentaires numériques d’effectuer des recherches, d’emprunter des documents et de gérer les opérations liées à la bibliothèque à travers une interfaces
+# Bibliothèque Numérique
+
+A Java desktop application for managing a digital library.
+
+## Features
+
+- User authentication
+- Book management
+- Categories
+- Borrowing system
+- Reading lists
+- Recommendations
+
+## Technologies
+
+- Java
+- JDBC
+- MySQL
+- Eclipse
+
+## How to Run
+
+1. Clone the repository
+2. Import it into Eclipse
+3. Add the required JAR files from the `lib` folder
+4. Configure the database connection
+5. Run the main class
